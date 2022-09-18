@@ -1,0 +1,12 @@
+.test-div{
+    width: 100px;
+    height: 100px;
+    color: black;
+    border: solid 1px black; 
+    margin-bottom: 10px;
+}
+
+.btn {
+    display: none;
+    margin-bottom: 10px;
+}
